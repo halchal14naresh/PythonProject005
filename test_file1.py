@@ -7,7 +7,7 @@ class TestClass1:
     def test_method1(self):
         print("")
         print("********************** ")
-        print("This is Test Method")
+        print("This is Test Methodss")
         print("This is Test Method 123r")
         print("********************** ")
         print(" ")
