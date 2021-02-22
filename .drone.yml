@@ -2,8 +2,8 @@ kind: pipeline
 name: default
 
 steps:
-- name: Python&JavaforremoteI
-  image: carvk/java_python:openjdk15_python
+- name: test
+  image: python
 
   commands:
     - pip install -r requirements.txt
