@@ -9,7 +9,7 @@ server:
     from_secret: bea26a2221fd8090ea38720fc445eca6
 
 steps:
-- name: test
+- name: test1
   image: python
 
   commands:
