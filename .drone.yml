@@ -2,6 +2,12 @@ kind: pipeline
 type: ssh
 name: default
 
+server:
+  host: 192.168.80.1
+  user: halchal14naresh
+  password:
+    from_secret: bea26a2221fd8090ea38720fc445eca6
+
 steps:
 - name: test
   image: python
