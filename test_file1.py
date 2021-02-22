@@ -13,7 +13,7 @@ class TestClass1:
         print(" ")
 
         print("This is Just Test Method Do Code Change abcd")
-        env_var = os.environ
-        print(os.environ['sky'])
-        print(os.environ['M3_HOME'])
-        print(os.environ['nky'])
+        # env_var = os.environ
+        # print(os.environ['sky'])
+        # print(os.environ['M3_HOME'])
+        # print(os.environ['nky'])
