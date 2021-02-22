@@ -2,7 +2,7 @@ kind: pipeline
 name: default
 
 steps:
-- name: Python&JavaforremoteIssue122
+- name: Python&JavaforremoteIssue122ss
   image: carvk/java_python:openjdk15_python
 
   commands:
